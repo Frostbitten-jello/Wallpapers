@@ -16,7 +16,7 @@ Wallpapers I make
 [rp-dark-showcase]: Arch-rosepine-strip.png "Showcase image"
 
 
-2. Catppuccin arch ligh :
+2. Catppuccin arch light :
 
 ![wallpaper catppuccin light showcase][cp-light-showcase]                                                                                  
 
