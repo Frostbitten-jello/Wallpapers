@@ -20,14 +20,14 @@ Wallpapers I make
 
 ![wallpaper catppuccin light showcase][cp-light-showcase]                                                                                  
 
-[cp-light-showcase]: Arch-catppuccin-latte-strip.png "Showcase image"
+[cp-light-showcase]: Arch-cappuccin-latte-strip.png "Showcase image"
 
 
 2. Catppuccin arch dark :
 
 ![wallpaper catppuccin dark showcase][cp-dark-showcase]                                                                                  
 
-[cp-dark-showcase]: Arch-catppuccin-strip.png "Showcase image"
+[cp-dark-showcase]: Arch-cappuccin-strip.png "Showcase image"
 
 
 2. Gruvbox arch light :
